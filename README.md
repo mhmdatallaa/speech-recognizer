@@ -18,13 +18,13 @@ https://github.com/user-attachments/assets/f6b3c4db-9540-4293-9580-3771bf8df04c
 
 1.  **Import the `SpeechRecognizer` class:**
 
-    ```
+    ```swift
     import SpeechRecognizer
     ```
 
 2.  **Instantiate the `SpeechRecognizer`:**
 
-    ```
+    ```swift
     import SwiftUI
     import SpeechRecognizer
 
